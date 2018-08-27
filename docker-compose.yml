@@ -1,4 +1,5 @@
 version: '2'
+services:
   contract_observer:
     image: forkdelta/backend
     build: .
